@@ -1,5 +1,4 @@
-# Analysis of geospatial data from Toronto, Canada 
-## Coursera_Capstone
+# Analysis of geospatial data
 
 This project aims to conduct an analysis of geospatial data from Toronto, Canada.
 
