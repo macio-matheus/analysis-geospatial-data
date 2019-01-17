@@ -2,8 +2,8 @@ version: '3'
 
 services:
 
-  notebook_data_science:
-    container_name: data_science_jupyter
+  geospatial_data_science:
+    container_name: geospatial_data_jupyter
     image: maciomatheus/jupyter_notebook_data_science
     environment:
       JUPYTER_ENABLE_LAB: 1
