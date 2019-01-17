@@ -14,6 +14,6 @@ This project is the final step of the IBM Data Science Professional Certificate.
 
 ![Folium map screenshot](https://raw.githubusercontent.com/macio-matheus/Coursera_Capstone/master/week4/screenshot_folium_map_northyork.png)
 
-### Examine each of the five clusters
+### Examine each of the three clusters
 
 ![Folium map screenshot](https://raw.githubusercontent.com/macio-matheus/Coursera_Capstone/master/week4/screenshot_folium_map_clusteres.png)
