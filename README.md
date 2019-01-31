@@ -39,3 +39,10 @@ http://<your-ip>:8888/tree
 ```sh
 https://hub.docker.com/r/maciomatheus/jupyter_notebook_data_science/
 ```
+
+### Team
+
+- @henriquelima1408
+- @jsalesba
+- @macio-matheus
+- @victorouttes
