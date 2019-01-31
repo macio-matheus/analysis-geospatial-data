@@ -1,19 +1,41 @@
 # Analysis of geospatial data
 
-This project aims to conduct an analysis of geospatial data from Toronto, Canada.
+This project analyzes data from the Foursquare social network. We extract data from places frequented in the city of New York. A number of analyzes are performed on several key metrics in network theory.
 
-Data from different sources (Wikipedia, Foursquare ..) are used to carry out a similarity analysis of the neighborhoods and their commercial points.
+### New York map 
 
-This project is the final step of the IBM Data Science Professional Certificate.
+![New York](https://raw.githubusercontent.com/macio-matheus/analysis-geospatial-data/develop/docs/nymap.png)
 
-### Create a simple map of Toronto City
+### Network Graph 
 
-![Folium map screenshot](https://raw.githubusercontent.com/macio-matheus/Coursera_Capstone/master/week4/screenshot_folium_map_toronto.png)
+![graph](https://raw.githubusercontent.com/macio-matheus/analysis-geospatial-data/develop/docs/network.png)
 
-### Create a new data frame with neighborhoods in North York 
+### Community
 
-![Folium map screenshot](https://raw.githubusercontent.com/macio-matheus/Coursera_Capstone/master/week4/screenshot_folium_map_northyork.png)
+![Community](https://raw.githubusercontent.com/macio-matheus/analysis-geospatial-data/develop/docs/community.png)
 
-### Examine each of the three clusters
 
-![Folium map screenshot](https://raw.githubusercontent.com/macio-matheus/Coursera_Capstone/master/week4/screenshot_folium_map_clusteres.png)
+### Usage
+First of all, build the container using docker-compose and then you can 
+access the Jupyter that is ready to be used.
+
+#### Run with docker compose
+```sh
+cd analysis-geospatial-data
+docker-compose up -d
+```
+
+#### Accessing Jupyter
+```sh
+http://<your-ip>:8888/tree
+```
+
+#### Ports
+```sh
+    - 8888 => Jupyter
+```
+
+### DockerHub
+```sh
+https://hub.docker.com/r/maciomatheus/jupyter_notebook_data_science/
+```
