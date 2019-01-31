@@ -1,4 +1,4 @@
-# Analysis of geospatial data
+# Analysis of geospatial data (Foursquare)
 
 This project analyzes data from the Foursquare social network. We extract data from places frequented in the city of New York. A number of analyzes are performed on several key metrics in network theory.
 
