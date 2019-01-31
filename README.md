@@ -42,7 +42,7 @@ https://hub.docker.com/r/maciomatheus/jupyter_notebook_data_science/
 
 ### Team
 
-- @henriquelima1408
-- @jsalesba
-- @macio-matheus
-- @victorouttes
+- Henrique Lima (https://github.com/henriquelima1408)
+- Julio Sales (https://github.com/jsalesba)
+- Mácio Matheus Arruda (https://github.com/macio-matheus)
+- Victor Outtes (https://github.com/victorouttes)
