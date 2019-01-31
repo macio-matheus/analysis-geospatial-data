@@ -10,7 +10,7 @@ This project analyzes data from the Foursquare social network. We extract data f
 
 ![graph](https://raw.githubusercontent.com/macio-matheus/analysis-geospatial-data/develop/docs/network.png)
 
-### Community
+### Communities
 
 ![Community](https://raw.githubusercontent.com/macio-matheus/analysis-geospatial-data/develop/docs/community.png)
 
