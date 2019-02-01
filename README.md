@@ -32,7 +32,7 @@ http://<your-ip>:8888/tree
 
 #### Ports
 ```sh
-    - 8888 => Jupyter
+- 8888 => Jupyter
 ```
 
 ### DockerHub
